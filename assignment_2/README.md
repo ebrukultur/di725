@@ -4,6 +4,4 @@
 **Affiliation:** Middle East Technical University, Department of Informatics  
 **Email:** e174142@metu.edu.tr  
 
----
 
-## 📁 Repository Structure
